@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @benjamingoldblatt
-- 👀 I’m interested in ...
-- 🌱 I’m currently studying Computer Science at UCLA.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m studying Computer Science at UCLA.
 - 📫 email: benjamingoldblatt88@gmail.com
 
 <!---
